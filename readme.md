@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.p
 
 <table>
   <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/ewerton-alexander-780869232/"><img style="border-radius: 50%;" src="https://media.licdn.com/dms/image/D4D03AQE2g7JkGPUbHQ/profile-displayphoto-shrink_200_200/0/1698950435642?e=1704326400&v=beta&t=2OENNmDXB95bjXFUl8FSMrhcsMDmRe1ixwTlr-DCpzc" width="100px;" alt=""/><br /><sub><b>Ewerton Alexander</b></sub></a><br />👨‍🚀</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/ewerton-alexander-780869232/"><img style="border-radius: 50%;" src="https://media.licdn.com/dms/image/D4D03AQHbWQZFgL5Vag/profile-displayphoto-shrink_200_200/0/1699361588056?e=1704931200&v=beta&t=SXMZRie29_lg2IgNdwmNkFQk9WPoUMONczd-UFMzZYQ" width="100px;" alt=""/><br /><sub><b>Ewerton Alexander</b></sub></a><br />👨‍🚀</a></td>
   
   
         
