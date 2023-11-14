@@ -1,6 +1,7 @@
 /// <reference types="cypress" />
 
-context('Acessara página de login do Saucedemo', () => {
+context('Acessar a página de login do Saucedemo', () => {
+    
     beforeEach(() => {
         cy.visit('https://saucedemo.com/')
     })
